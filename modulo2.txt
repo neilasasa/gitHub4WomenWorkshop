@@ -4,3 +4,7 @@
 - Clone: vc baixa o repositorio para seu computador. 
 - Branch: é onde vc trabalha no código, fazendo as tarefas.
 
+Settings - Branches:
+- important settings para proteger sua branch principal
+- aqui que incluimos a obrigatoriedade dos codeowners para aprovacao do PR antes do merge.
+- primeiro vem a regra específica para a branch, depois as regras gerais (para todas as branches ou algumas branches), se existirem regras iguais, a que foi criada primeiro prevalece.
