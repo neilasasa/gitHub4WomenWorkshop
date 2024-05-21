@@ -1,0 +1,6 @@
+- Sempre ha questoes no teste de certificado sobre CODEOWNERS! 
+
+- Fork : copia o repositorio de uma outra pessoa para ficar na sua conta do github. 
+- Clone: vc baixa o repositorio para seu computador. 
+- Branch: é onde vc trabalha no código, fazendo as tarefas.
+
